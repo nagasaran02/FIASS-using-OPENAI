@@ -5,3 +5,4 @@ Implementing the FIASS DB using OpenAi
 ### FAISS (Facebook AI Similarity Search) is designed to efficiently find vectors similar to a given query vector within a database of vectors, representing various types of data such as documents, images, or other structured data.
 
 ## It is the LocalDb library
+## Inspite of using the OPENAI embedding Model,Here we use Model Loaded from Hugging Face ""sentence-transformers/all-MiniLM-L6-v2""
